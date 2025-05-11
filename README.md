@@ -1,12 +1,12 @@
 - 👋 Hi, I’m MD AAMER AHMED SHAIKH
 - 🎯Aspiring Full Stack Web Developer | Passionate about building web apps that solve real problems.
 - 💻 Tech Stack
-  Frontend: HTML, CSS, JavaScript, React.js
-  Backend: Node.js, Express.js
-  Database: MongoDB
-  Tools: Git, GitHub, Postman, VS Code, Figma
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, Postman, VS Code, Figma
 - 📈 Currently Learning
-  TypeScript, Next.js, Authentication, REST APIs
+- TypeScript, Next.js, Authentication, REST APIs
 - 🚀 Projects
 - [Project 1 Name](link) – Short 1-line description
 - [Project 2 Name](link) – Short 1-line description
